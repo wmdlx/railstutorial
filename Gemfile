@@ -6,6 +6,8 @@ gem 'rails', '4.0.0'
 # Use pg as the database for Active Record
 gem 'pg'
 gem 'rails_12factor', '0.0.2'
+gem 'rspec-rails', '2.13.1'
+gem 'capybara', '2.1.0'
 
 # Use SCSS for stylesheets
 gem 'sass-rails', '4.0.1'
